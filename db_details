@@ -1,0 +1,13 @@
+# Amey#supa@2025
+
+host:
+db.ktnnyfvoionzxcbiiwcv.supabase.co
+
+port:
+5432
+
+database:
+postgres
+
+user:
+postgres

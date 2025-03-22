@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.pts.package_tracking_system;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PackageTrackingManagerApplicationTests {
+class PackageTrackingSystemApplicationTests {
 
 	@Test
 	void contextLoads() {
